@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'ZaratInitRails'
+
+ZaratInitRails.perform(ARGV)
+p "generating config..."
